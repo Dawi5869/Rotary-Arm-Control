@@ -1,5 +1,9 @@
 # 🤖 Rotary Arm Control – PD Control System for Rigid Arm
 
+<p align="center">
+  <img src="ASEN 2803 Lab 3 (1).png" alt="HappyCam Product Photo" width="850"/>
+</p>
+
 ## ✨ Overview
 This was a lab project for our Dynamics & Controls course (ASEN 2803), where our group designed and implemented a **proportional-derivative (PD) controller** for a rigid rotary arm system. The goal was to model the arm’s dynamics, design a controller to meet performance specs (under 20% overshoot, settling time < 1s), simulate the response in MATLAB, and then validate the design on real hardware using NI myRIO.
 
