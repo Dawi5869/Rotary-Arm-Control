@@ -18,6 +18,7 @@ We worked through multiple stages including deriving transfer functions from sys
   - Collected and plotted system response data in MATLAB.
   - Compared theoretical model behavior with experimental outcomes and Simulink simulations.
   - Observed differences in system performance due to real-world factors like natural damping and friction.
+  - Create a functional block diagram to showcase our understanding of the integrated system.
 
 - **Performance Tuning**
   - Designed and validated a controller with:
@@ -36,7 +37,6 @@ We worked through multiple stages including deriving transfer functions from sys
 - **NI myRIO** – Used for real-time hardware implementation of control gains and system feedback.
 - **Simulink** – Provided benchmark simulations with modeled physical damping for comparison.
 - **LabVIEW** – Used via the VI interface to configure gains and log voltage/angular data during tests.
-- **MS Excel / MATLAB Plotting** – Used for analyzing performance criteria like settling time and overshoot.
 
 ---
 
